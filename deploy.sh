@@ -3,8 +3,8 @@
 git add *
 git commit -m 'update'
 git push
-cp -r _site/* ../ideas
-cd ../ideas/
+cp -r _site/* ../waterbearcollective.github.io
+cd ../waterbearcollective.github.io/
 git add *	
 git commit -m 'update'
 git push
