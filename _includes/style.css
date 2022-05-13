@@ -65,13 +65,13 @@ line-height: 110%;
 }
 
 #blurb {
-margin: 10px 10px 10px 20px;
-max-width: 70%;
+margin: 10px 10px 10px 40px;
+max-width: 50%;
 #display: inline-block;
 text-align: left;
 font-size: 14;
 line-height: 140%;
-#background: MintCream;
+background: MintCream;
 }
 
 #punch {

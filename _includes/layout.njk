@@ -23,9 +23,11 @@ title: Waterbear Collective
   <body>
     <div id='post-content'>
 
-  <a href="/">Waterbear Collective</a> | 
-        <b>{{ pageTitle }}</b>
-        <p><i>{{ blurb }}</i></p>
+  <a href="/">Waterbear Collective</a>  
+        <div id="blurb">
+        <b>{{pageTitle}}.</b>
+        {{ blurb }}
+        </div>
 
 
   {{ content | safe }}
