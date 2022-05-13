@@ -65,13 +65,13 @@ line-height: 110%;
 }
 
 #blurb {
-margin: 18px 20px 20px 5px;
+margin: 10px 10px 10px 20px;
 max-width: 70%;
 #display: inline-block;
 text-align: left;
 font-size: 14;
 line-height: 140%;
-background: MintCream;
+#background: MintCream;
 }
 
 #punch {
@@ -99,6 +99,7 @@ h2 {
 h3 {
     font-size:small;
     margin-bottom: 1px;
+    text-align: center;
 }
 
 ul,ol {
@@ -173,8 +174,12 @@ a:visited{
 
 .post img {
    #object-fit: cover;
-   width: 50px;
-   height: 50px;
+   width: 200px;
+   height: 150px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  #width: 50%;
 }
 
 .post .text {
