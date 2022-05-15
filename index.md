@@ -11,15 +11,17 @@ eleventyExcludeFromCollections: true
 </div>
 -->
 
+<!--
 <div id="blurb">
 
-<!--Resources on outdoor pedagogy.-->
+<img src="img/wblogo_sm.png"> Resources on outdoor pedagogy.
+-->
 
 <!--
 <span id="punch">Convivial</span> is a proposed series of investigations and conversations around the idea of decolonizing technology, in a diverse array of contexts. What exactly 'decolonization' means will likely vary significantly from person to person; our aim is to use it as a jumping off point for exploring topics like exploitation, control, autonomy, and the project of developing more democratic, collaborative, cooperative approaches to the technologies and infrastructure upon which we all rely for survival and for flourishing.
 -->
 
-</div>
+<!--</div>-->
 
 <!--
 - <div id="highlight"> <a href="#provocations">Provocations & Guiding Questions</a></div> and guiding questions to serve as common entry points across the conversations. 
