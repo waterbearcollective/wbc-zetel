@@ -3,7 +3,17 @@ layout: front.njk
 eleventyExcludeFromCollections: true
 ---
 
-<img src="img/wblogo_sm.png">
+<div class="row">
+  <div class="column">
+    <img src="img/wblogo_sm.png" alt="Snow" >
+  </div>
+  <div class="column">
+    <!--<p>Ideas and resources for outdoor learning and play.</p>-->
+  </div>
+  <!--<div class="column">
+    <img src="img/wblogo_sm.png" alt="Mountains" style="width:100%">
+  </div>-->
+</div>
 
 <!--
 <div id="title">
