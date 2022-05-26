@@ -51,14 +51,12 @@ Some baseline queries and provocations to present to interlocutors that might se
 </div>
 -->
 
-<!--<div id="blurb">-->
 
 {% for post in collections.blogCollection %}
 <a href="{{ post.url }}">{{ post.data.pageTitle }}</a> 
 -- {{ post.data.blurb }} ({{ post.date | date: "%Y-%m-%d" }})
 
 {% endfor %}
-<!--</div>-->
 
 <hr>
 
